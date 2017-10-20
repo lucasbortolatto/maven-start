@@ -1,0 +1,10 @@
+/target/
+pom.xml.tag
+pom.xml.versionBackup
+pom.xml.next
+release.proprierties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timming.properties
+.settings
+.classpath
